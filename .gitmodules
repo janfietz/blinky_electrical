@@ -1,0 +1,3 @@
+[submodule "submodules/janfietz_library"]
+	path = submodules/janfietz_library
+	url = https://github.com/janfietz/kicad-library.git
