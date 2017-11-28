@@ -1,4 +1,4 @@
-update=So 08 Okt 2017 20:31:40 CEST
+update=Tue 28 Nov 2017 10:13:45 PM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=submodules/janfietz_library/library
+LibDir=submodules/janfietz_library/library;../kicad-library-repos/kicad-library/library
 [eeschema/libraries]
 LibName1=blinky-rescue
 LibName2=power
