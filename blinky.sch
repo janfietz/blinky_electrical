@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:blinky-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -146,7 +147,7 @@ U 1 1 597358BD
 P 6900 4350
 F 0 "P1" H 6900 4600 50  0000 C CNN
 F 1 "BUTTON" V 7250 4350 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.00mm" H 6900 4350 50  0001 C CNN
+F 2 "jfi:Pin_Header_Straight_1_04_Pitch1.25mm" H 6900 4350 50  0001 C CNN
 F 3 "" H 6900 4350 50  0000 C CNN
 	1    6900 4350
 	1    0    0    -1  
@@ -179,7 +180,7 @@ U 1 1 597359DA
 P 7850 4350
 F 0 "P2" H 7850 4600 50  0000 C CNN
 F 1 "BUTTON" V 8200 4350 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.00mm" H 7850 4350 50  0001 C CNN
+F 2 "jfi:Pin_Header_Straight_1_04_Pitch1.25mm" H 7850 4350 50  0001 C CNN
 F 3 "" H 7850 4350 50  0000 C CNN
 	1    7850 4350
 	1    0    0    -1  
@@ -190,7 +191,7 @@ U 1 1 59735A24
 P 8800 4350
 F 0 "P3" H 8800 4600 50  0000 C CNN
 F 1 "BUTTON" V 9150 4350 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.00mm" H 8800 4350 50  0001 C CNN
+F 2 "jfi:Pin_Header_Straight_1_04_Pitch1.25mm" H 8800 4350 50  0001 C CNN
 F 3 "" H 8800 4350 50  0000 C CNN
 	1    8800 4350
 	1    0    0    -1  
@@ -201,7 +202,7 @@ U 1 1 59735A69
 P 9750 4350
 F 0 "P4" H 9750 4600 50  0000 C CNN
 F 1 "BUTTON" V 10100 4350 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.00mm" H 9750 4350 50  0001 C CNN
+F 2 "jfi:Pin_Header_Straight_1_04_Pitch1.25mm" H 9750 4350 50  0001 C CNN
 F 3 "" H 9750 4350 50  0000 C CNN
 	1    9750 4350
 	1    0    0    -1  
@@ -212,7 +213,7 @@ U 1 1 59735AB9
 P 10700 4350
 F 0 "P5" H 10700 4600 50  0000 C CNN
 F 1 "BUTTON" V 11050 4350 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.00mm" H 10700 4350 50  0001 C CNN
+F 2 "jfi:Pin_Header_Straight_1_04_Pitch1.25mm" H 10700 4350 50  0001 C CNN
 F 3 "" H 10700 4350 50  0000 C CNN
 	1    10700 4350
 	1    0    0    -1  
@@ -695,13 +696,8 @@ U 1 1 5977615C
 P 6550 7300
 F 0 "J12" H 6550 7450 50  0000 C CNN
 F 1 "BATTERY" V 6650 7300 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 6550 7300 50  0001 C CNN
+F 2 "Connectors_JST:JST_EH_S02B-EH_02x2.50mm_Angled" H 6550 7300 50  0001 C CNN
 F 3 "" H 6550 7300 50  0001 C CNN
-F 4 "" H 50  50  50  0001 C CNN "MFR"
-F 5 "" H 50  50  50  0001 C CNN "MPN"
-F 6 "" H 50  50  50  0001 C CNN "SPR"
-F 7 "" H 50  50  50  0001 C CNN "SPN"
-F 8 "" H 50  50  50  0001 C CNN "SPURL"
 	1    6550 7300
 	1    0    0    -1  
 $EndComp
